@@ -43,7 +43,7 @@ void printHeader() {
  | |__| | ___) |  ___) || | | |  | | |_| | |___ / ___ \| || |_| |  _ < 
   \____/ |____/  |____/|___||_|  |_|\___/|_____/_/   \_\_| \___/|_| \_\
   __________________________________________________________
-    BY JUNAID F2023266884  ||  GITHUB: junicoder
+    BY JUNAID F2023266884  ||  GITHUB: juni-mahar
     )" << "\033[0m\n";
 }
 
@@ -93,7 +93,7 @@ int main() {
         
         cout << "\n  \033[31m[X] SHUTDOWN\033[0m    \033[33m[R] REFRESH\033[0m\n\n";
         
-        cout << "\033[1m\033[36m  junicoder@os-sim\033[0m:\033[33m~\033[0m$ ";
+        cout << "\033[1m\033[36m  juni-mahar@os-sim\033[0m:\033[33m~\033[0m$ ";
         cin >> choice;
 
         if (choice == "1") {
