@@ -78,19 +78,19 @@ The interface provides a professional CLI experience with:
 
 > **Menu**
 
-> ![Menu](Screenshots\menu.png)
+> ![Menu](Screenshots/menu.png)
 
 > **1 . Display System State**
 
-> ![Display System State](Screenshots\DisplaySystemState.png)
+> ![Display System State](Screenshots/DisplaySystemState.png)
 
 >**2 . Run Scheduler**
 
-> ![Run](Screenshots\CallSch.png)
+> ![Run](Screenshots/CallSch.png)
 
 >**3 . Force add process (P999)**
 
-> ![Force](Screenshots\addp.png)
+> ![Force](Screenshots/addp.png)
 ---
 
 ## 💻 Compilation & Execution
