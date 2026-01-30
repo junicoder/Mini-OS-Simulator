@@ -76,17 +76,21 @@ The interface provides a professional CLI experience with:
 
 ## 📸 Screenshots
 
-*(Insert your terminal screenshots here to demonstrate the menu and execution logs)*
+> **Menu**
 
-> **[Space for Menu Screenshot]**
-> *Description: The main landing page showing the Epic ASCII header and Kernel commands.*
+> ![Menu](Screenshots\menu.png)
 
-> **[Space for Scheduler Output Screenshot]**
-> *Description: Gantt chart and average statistics generated after running the scheduler.*
+> **1 . Display System State**
 
-> **[Space for System State Screenshot]**
-> *Description: Current buffer load and resource allocation vectors.*
+> ![Display System State](Screenshots\DisplaySystemState.png)
 
+>**2 . Run Scheduler**
+
+> ![Run](Screenshots\CallSch.png)
+
+>**3 . Force add process (P999)**
+
+> ![Force](Screenshots\addp.png)
 ---
 
 ## 💻 Compilation & Execution
