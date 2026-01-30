@@ -78,19 +78,19 @@ The interface provides a professional CLI experience with:
 
 > **Menu**
 
-> ![Menu](Screenshots\menu.png)
+> ![Menu](Screenshots/menu.png)
 
 > **1 . Display System State**
 
-> ![Display System State](Screenshots\DisplaySystemState.png)
+> ![Display System State](Screenshots/DisplaySystemState.png)
 
 >**2 . Run Scheduler**
 
-> ![Run](Screenshots\CallSch.png)
+> ![Run](Screenshots/CallSch.png)
 
 >**3 . Force add process (P999)**
 
-> ![Force](Screenshots\addp.png)
+> ![Force](Screenshots/addp.png)
 ---
 
 ## 💻 Compilation & Execution
@@ -137,3 +137,4 @@ g++ modules.cpp main.cpp -o os_sim -lpthread
 
 * **Current Limit:** The simulator is currently text-based.
 * **Future Expansion:** Potential to expand into a GUI-based OS Simulator or a Cloud Workload Scheduler for a Final Year Project (FYP).
+
